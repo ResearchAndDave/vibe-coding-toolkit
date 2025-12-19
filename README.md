@@ -223,9 +223,7 @@ vibe-coding-toolkit/
 
 > "All software project tasks have a last mile that requires human insight and oversight."
 
-## License
 
-MIT
 
 ## Attribution
 
