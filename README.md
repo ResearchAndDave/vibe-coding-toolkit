@@ -38,12 +38,7 @@ Three toolkits organized by development timescale:
 
 ## The Goal: FAAFO
 
-In Vibe Coding, **FAAFO** stands for **Fast, Autonomous, Fun to Operate** — the ideal state of AI-assisted development:
-
-- **Fast** — Quick iteration, rapid feedback loops
-- **Autonomous** — Optionality to change, test, and deploy modules independently
-- **Fun** — Enjoyable development experience, not fighting the codebase
-- **to Operate** — Maintainable, observable, easy to run
+In Vibe Coding, **FAAFO** stands for **Fast, Ambitious, Autonomous, Fun, and Optionality **
 
 When AI generates tightly-coupled or bloated code, you lose FAAFO:
 
